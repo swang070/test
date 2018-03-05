@@ -1,14 +1,3 @@
-;=================================================
-; Name: Benjamin Lee
-; Email: blee073@ucr.edu
-; 
-; Assignment name: Assignment 5
-; Lab section: 
-; 
-; I hereby certify that I have not received assistance on this assignment,
-; or used code, from ANY outside source other than the instruction team.
-;
-;=================================================
 
 .ORIG x3000			; Program begins here
 ;-------------
