@@ -1,12 +1,4 @@
-;=================================================
-; Name: Benjamin Lee
-; Email:  blee073@ucr.edu
-; 
-; Lab: lab 7
-; Lab section: 025
-; TA: Dipan
-; 
-;=================================================
+
 .orig x3000
 LEA R0, instruction
 PUTS
